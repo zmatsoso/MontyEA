@@ -1,0 +1,5 @@
+Copy source code from MontyEA.txt
+
+Open MetaTrader 4 > Click on IDE to open MetaQuotes> Click New EA > Click NEXT 5 times > Paste the source code and compile.
+
+Happy Trading!!! 
